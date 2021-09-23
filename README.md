@@ -32,18 +32,25 @@ Open `Multioutput_CNN_Based_ Age_Gender_Classification.ipynb` on a jupyter noteb
 ## Training Result
 
 #### Age Accuracy
-```Got 2471 / 3709 with accuracy 66.62%```
-![Confusion Matrix](https://github.com/Shahrullo/Multioutput_CNN_Age_Gender_Classification/blob/main/imgs/ageCF.png)
+```With accuracy 59.59% and One-off accuracy 95.99%```
+![Confusion Matrix](https://github.com/Shahrullo/MultiModelClassification_Age_Gender_Race/blob/main/imgs/age_cm.png)
 
 #### Images that our model mislabeled age with confident level
-![](https://github.com/Shahrullo/Multioutput_CNN_Age_Gender_Classification/blob/main/imgs/mislabelAge.png)
+![](https://github.com/Shahrullo/MultiModelClassification_Age_Gender_Race/blob/main/imgs/age_ml.png)
 
 #### Gender Accuracy
-```Got 3473 / 3709 with accuracy 93.64%```
-![Confusion Matrix](https://github.com/Shahrullo/Multioutput_CNN_Age_Gender_Classification/blob/main/imgs/genderCF.png)
+```With accuracy 93.22%```
+![Confusion Matrix](https://github.com/Shahrullo/MultiModelClassification_Age_Gender_Race/blob/main/imgs/gender_cm.png)
 
 #### Images that our model mislabeled gender with confident level
-![](https://github.com/Shahrullo/Multioutput_CNN_Age_Gender_Classification/blob/main/imgs/mislabelGender.png)
+![](https://github.com/Shahrullo/MultiModelClassification_Age_Gender_Race/blob/main/imgs/gender_ml.png)
+
+#### Race Accuracy
+```With accuracy 71.62%```
+![Confusion Matrix](https://github.com/Shahrullo/MultiModelClassification_Age_Gender_Race/blob/main/imgs/race_cm.png)
+
+#### Images that our model mislabeled race with confident level
+![](https://github.com/Shahrullo/MultiModelClassification_Age_Gender_Race/blob/main/imgs/race_ml.png)
 
 ## Author
 - Shahrullohon Lutfillohonov. 
