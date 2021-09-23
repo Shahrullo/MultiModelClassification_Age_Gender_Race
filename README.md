@@ -1,6 +1,6 @@
 # MultiModel Classification: Age Gender Race
 
-One of my side projects for multioutput Convolutional Neural Networks based on Age, Gender and Race prediction model. The model is conducted on [PyTorch](https://pytorch.org/) to classify both age ang gender. I made a model project with custom CNN that I introduced. The model is trained on [Adience unfiltered benchmark](https://talhassner.github.io/home/projects/Adience/Adience-data.html). 
+One of my side projects for multioutput Convolutional Neural Networks based on Age, Gender and Race prediction model. The model is conducted on [PyTorch](https://pytorch.org/) to classify both age ang gender. I made a model project with pre-trained model [DenseNet](https://arxiv.org/abs/1608.06993). The model is trained on [FairFace benchmark](https://github.com/joojs/fairface). 
 
 ## Prerequisites
 
