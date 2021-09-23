@@ -22,7 +22,7 @@ You can install the required packages by executing the following command.
 
 ## Jupyter Notebook
 
-`Multioutput_CNN_Based_ Age_Gender_Classification.ipynb`
+[`Multioutput_CNN_Based_ Age_Gender_Classification.ipynb`](https://github.com/Shahrullo/MultiModelClassification_Age_Gender_Race/blob/main/MultiModel_Classification_Age_Gender_Race.ipynb)
 
 The jupyter notebook describes the whole project. You can find the whole description inside the notebook.
 
